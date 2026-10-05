@@ -1,6 +1,11 @@
-# prevedeni programi
-*.exe
-*.o
+# ignoriraj sve...
+*
 
-# privremene Word datoteke
-~$*
+# ...osim mapa (da git može ući u podmape)
+!*/
+
+# ...C++ izvornih datoteka
+!*.cpp
+
+# ...i ove datoteke
+!.gitignore
