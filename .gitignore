@@ -1,0 +1,6 @@
+# prevedeni programi
+*.exe
+*.o
+
+# privremene Word datoteke
+~$*
