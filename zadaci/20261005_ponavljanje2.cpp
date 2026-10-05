@@ -20,6 +20,6 @@ int main() {
     v4[i]=2; // dodavanje elemenata na kraj vektora
     // povećava se mjesto u memoriji
   }
-  cout << "kraj\n";
+  cout << "kraj programa\n";
   return 0; // nije nužno, ali funkcija predviđa povratnu vrijednost
 }
