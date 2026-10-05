@@ -4,8 +4,9 @@
 # ...osim mapa (da git može ući u podmape)
 !*/
 
-# ...C++ izvornih datoteka
+# ...C++ izvornih datoteka i PDF-ova
 !*.cpp
+!*.pdf
 
 # ...i ove datoteke
 !.gitignore
