@@ -9,3 +9,8 @@ I11_Kisa.cpp              Kisa | Infokup 2025, drzavna razina, 7. razred.
 I12_Rubik.cpp             Rubik | Infokup 2025, drzavna razina, 8. razred.
 J01_Audi.cpp              Audi | JHIO 2017. C++17.
 J17_Piramida.cpp          Piramida | JHIO 2025. Mentorsko rjesenje, C++17.
+
+Županijska i državna natjecanja možete pronaći na linku:
+https://hsin.hr/natjecanja.html
+
+Kao i JHIO natjecanja
