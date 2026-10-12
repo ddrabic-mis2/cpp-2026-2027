@@ -1,3 +1,6 @@
 {
-  "C_Cpp.default.compilerPath": "D:/msys64/ucrt64/bin/g++.exe"
+  "C_Cpp.default.compilerPath": "D:/msys64/ucrt64/bin/g++.exe",
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "code-runner.preserveFocus": false
 }
