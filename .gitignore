@@ -1,12 +1,24 @@
-# ignoriraj sve...
-*
+# Kompajlirani programi i međudatoteke
+*.exe
+*.o
+*.obj
+*.out
+!*/testovi/**/*.out
+*.pdb
+*.ilk
 
-# ...osim mapa (da git može ući u podmape)
-!*/
+# Office privremene datoteke
+~$*
 
-# ...C++ izvornih datoteka i PDF-ova
-!*.cpp
-!*.pdf
+# Sustav
+Thumbs.db
+desktop.ini
+.DS_Store
 
-# ...i ove datoteke
-!.gitignore
+# Rješenja i materijali za predavača (ne dijele se s polaznicima)
+rjesenja/
+predavac/
+*.zip
+
+# Materijali se ne dijele putem gita
+materijali/
